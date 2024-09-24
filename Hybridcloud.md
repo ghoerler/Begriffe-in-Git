@@ -6,3 +6,4 @@ Beispiele für Hybrid-Cloud-Anwendungen:
 - Microsoft Azure Hybrid
 - AWS Outposts
 
+
