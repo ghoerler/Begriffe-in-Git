@@ -14,3 +14,4 @@ Dieses Repository enthält eine kurze Zusammenfassung über Cloud-Computing-Mode
 
 Jede Datei beschreibt eine Konzept und enthält Beispiele dazu.
 
+[Cloud Computing](https://de.wikipedia.org/wiki/Cloud_Computing)
