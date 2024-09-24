@@ -1,6 +1,6 @@
 # Cloud Computing Modelle
 
-Dieses Repository enthält eine Übersicht über verschiedene Cloud-Computing-Modelle und Bereitstellungsoptionen.
+Dieses Repository enthält eine kurze Zusammenfassung über Cloud-Computing-Modelle und Bereitstellungsoptionen.
 
 ## Begriffe
 
@@ -12,5 +12,5 @@ Dieses Repository enthält eine Übersicht über verschiedene Cloud-Computing-Mo
 - [Private Cloud](./privatecloud.md)
 - [Hybrid Cloud](./hybridcloud.md)
 
-Jede Datei beschreibt eines der Konzepte und bietet eine Einführung sowie Beispiele.
+Jede Datei beschreibt eine Konzept und enthält Beispiele dazu.
 
