@@ -4,7 +4,7 @@ Dieses Repository enthält eine kurze Zusammenfassung über Cloud-Computing-Mode
 
 ## Begriffe
 
-- [IaaS (Infrastructure as a Service)](./iaas.md)
+- [IaaS (Infrastructure as a Service)](./IaaS.md)
 - [PaaS (Platform as a Service)](./paas.md)
 - [SaaS (Software as a Service)](./saas.md)
 - [On-Premise](./onpremise.md)
