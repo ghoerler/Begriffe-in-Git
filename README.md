@@ -5,12 +5,12 @@ Dieses Repository enthält eine kurze Zusammenfassung über Cloud-Computing-Mode
 ## Begriffe
 
 - [IaaS (Infrastructure as a Service)](./IaaS.md)
-- [PaaS (Platform as a Service)](./paas.md)
-- [SaaS (Software as a Service)](./saas.md)
-- [On-Premise](./onpremise.md)
-- [Public Cloud](./publiccloud.md)
-- [Private Cloud](./privatecloud.md)
-- [Hybrid Cloud](./hybridcloud.md)
+- [PaaS (Platform as a Service)](./PaaS.md)
+- [SaaS (Software as a Service)](./SaaS.md)
+- [On-Premise](./OnPremise.md)
+- [Public Cloud](./Publiccloud.md)
+- [Private Cloud](./Privatecloud.md)
+- [Hybrid Cloud](./Hybridcloud.md)
 
 Jede Datei beschreibt eine Konzept und enthält Beispiele dazu.
 
